@@ -1,0 +1,3 @@
+[submodule "ssd1315"]
+	path = ssd1315
+	url = git@github.com:MrDuncanM/ssd1315.git
